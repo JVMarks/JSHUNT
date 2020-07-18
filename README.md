@@ -1,7 +1,6 @@
 <div class="Box-body">
    <article class="markdown-body entry-content p-5" itemprop="text">
-      <h1 align="center" color="red">
-    <a target="_blank" rel="noopener noreferrer" href="#" color="red">JSHUNT</a></h1>
+      <h1 align="center" color="red">JSHUNT</h1>
  
  
  <div class="Box-body">    
