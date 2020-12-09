@@ -35,7 +35,6 @@
 <li>Faça push para a sua branch: <code>git push origin minha-feature</code>.</li>
 </ul>
 <p>Depois que o merge da sua pull request for feito, você pode deletar a sua branch.👋</p>
-
 </article>
       </div>
  <!--
